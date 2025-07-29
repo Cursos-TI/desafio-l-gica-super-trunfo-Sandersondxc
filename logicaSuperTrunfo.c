@@ -69,6 +69,5 @@ int main() {
         printf("As duas cidades têm o mesmo PIB.\n");
     }
 
-    return 0;
-    
+    return 0;    
 }
